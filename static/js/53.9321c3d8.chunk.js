@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{984:function(e,n,t){"use strict";t.r(n),t.d(n,"default",function(){return i});var a=t(0),r=t.n(a);function i(){return r.a.createElement("div",{className:"text-center"},r.a.createElement("h1",null,"Provider Portal"),r.a.createElement("h1",null,"This is Appointment Detail Page"))}}}]);
+//# sourceMappingURL=53.9321c3d8.chunk.js.map
